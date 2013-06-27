@@ -655,6 +655,24 @@
         "jQuery",
         "Mobile"
       ]
+    },
+    {
+        "name": "Mark Me",
+        "thumb": "markme/thumb.png",
+        "desc": "Online bookmark manager",
+        "url": "http://markme.alwaysdata.net",
+        "info": "http://markme.alwaysdata.net",
+        "src": "https://github.com/Mparaiso/silex-bookmarkly",
+        "submitter": "Mparaiso",
+        "submissionDate": "2013-06-24",
+        "tags": [
+            "Production",
+            "Productivity",
+            "Animations",
+            "jQuery",
+            "Open Source",
+            "Bookmark manager"
+        ]
     }
   ]
 }
